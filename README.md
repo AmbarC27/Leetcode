@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/AmbarC27/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmbarC27/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/AmbarC27/Leetcode/tree/master/2035-count-sub-islands) |
 ## Depth-First Search
@@ -29,9 +30,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/AmbarC27/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmbarC27/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmbarC27/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Hash Table
+|  |
+| ------- |
+| [0906-walking-robot-simulation](https://github.com/AmbarC27/Leetcode/tree/master/0906-walking-robot-simulation) |
 <!---LeetCode Topics End-->
