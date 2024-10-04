@@ -4,20 +4,17 @@ class Solution:
         n = len(skill)
         l = 0
         r = n-1
-        teams = []
         chemistry = 0
-        prev_team_score = skill[0] + skill[-1]
+        prev_team_score = skill[0] + skill[-1] ## setting it initially
         while l < r:
             team_score = skill[l] + skill[r]
             if team_score == prev_team_score:
-                teams.append([skill[l],skill[r]])
+                ## every team score should equal the score of team before it,
+                ## otherwise can do an early exit
                 chemistry += skill[l]*skill[r]
             else:
-                teams = []
+                chemistry = -1
                 break
             l += 1
             r -= 1
-        if not teams:
-            return -1
-        else:
-            return chemistry
+        return chemistry
