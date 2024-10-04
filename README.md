@@ -13,6 +13,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/AmbarC27/Leetcode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
@@ -53,6 +54,7 @@
 ## Linked List
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AmbarC27/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -62,4 +64,12 @@
 |  |
 | ------- |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AmbarC27/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
