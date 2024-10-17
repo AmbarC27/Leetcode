@@ -6,7 +6,7 @@ class DetectSquares:
         # self.points = defaultdict(int)
         self.points = {}
         ## In self.count we iterate over self.points_list instead of self.points 
-        ## as iterating over dict keys can give undefined behavious sometimes
+        ## as iterating over dict keys can give undefined behaviour sometimes
         self.points_list = []
 
     def add(self, point: List[int]) -> None:
