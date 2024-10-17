@@ -59,6 +59,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AmbarC27/Leetcode/tree/master/0050-powx-n) |
 | [2155-find-missing-observations](https://github.com/AmbarC27/Leetcode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AmbarC27/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Linked List
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/AmbarC27/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/AmbarC27/Leetcode/tree/master/0050-powx-n) |
 ## Backtracking
 |  |
 | ------- |
