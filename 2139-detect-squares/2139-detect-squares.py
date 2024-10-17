@@ -19,8 +19,9 @@ class DetectSquares:
     def count(self, point: List[int]) -> int:
         ## strategy is to see if we find a point which is diagonal to our query
         ## point. If we find a diagonal point, we gotta see if we can get points 
-        ## in the other diagonal. Note that this approach works for both squares 
-        ## and rectangles
+        ## in the other diagonal. Note that this approach can be modified to work
+        ## for reactangles too if the abs(x-px) == abs(y-py) condition is not 
+        ## enforced
         px,py = point
         ans = 0
         for x,y in self.points_list:
