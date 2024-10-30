@@ -26,6 +26,7 @@
 | [0226-invert-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/AmbarC27/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/AmbarC27/Leetcode/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/AmbarC27/Leetcode/tree/master/0744-network-delay-time) |
 | [1484-linked-list-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/AmbarC27/Leetcode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
@@ -33,6 +34,7 @@
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/AmbarC27/Leetcode/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/AmbarC27/Leetcode/tree/master/0744-network-delay-time) |
 | [2035-count-sub-islands](https://github.com/AmbarC27/Leetcode/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/AmbarC27/Leetcode/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/AmbarC27/Leetcode/tree/master/0744-network-delay-time) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,4 +169,12 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AmbarC27/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/AmbarC27/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AmbarC27/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/AmbarC27/Leetcode/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/AmbarC27/Leetcode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
