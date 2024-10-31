@@ -20,6 +20,7 @@ class Solution:
         # else:
         #     return max_prob[end_node] * -1
 
+        ## Second solution - modified djikstra
         max_prob = [0]*n
         queue = deque()
         queue.append([start_node,1])
