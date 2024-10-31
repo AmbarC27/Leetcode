@@ -5,6 +5,7 @@ class Solution:
             adj[edges[i][0]].append([edges[i][1],succProb[i]])
             adj[edges[i][1]].append([edges[i][0],succProb[i]])
         
+        ## First solution - modified djikstra
         # max_prob = {} # maps node -> probability from source
         # maxheap = [[-1,start_node]] # all probs will be negative as heapq implementation always give minheaps
         # while maxheap:
@@ -20,7 +21,7 @@ class Solution:
         # else:
         #     return max_prob[end_node] * -1
 
-        ## Second solution - modified djikstra
+        ## Second solution - almost djikstra but using queue instead of heap
         max_prob = [0]*n
         queue = deque()
         queue.append([start_node,1])
