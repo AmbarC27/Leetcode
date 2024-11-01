@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/AmbarC27/Leetcode/tree/master/0684-redundant-connection) |
+| [1100-connecting-cities-with-minimum-cost](https://github.com/AmbarC27/Leetcode/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [2035-count-sub-islands](https://github.com/AmbarC27/Leetcode/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
@@ -151,6 +152,7 @@
 | ------- |
 | [0684-redundant-connection](https://github.com/AmbarC27/Leetcode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/AmbarC27/Leetcode/tree/master/0744-network-delay-time) |
+| [1100-connecting-cities-with-minimum-cost](https://github.com/AmbarC27/Leetcode/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1325-path-with-maximum-probability](https://github.com/AmbarC27/Leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Dynamic Programming
 |  |
@@ -175,10 +177,15 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/AmbarC27/Leetcode/tree/master/0744-network-delay-time) |
+| [1100-connecting-cities-with-minimum-cost](https://github.com/AmbarC27/Leetcode/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1325-path-with-maximum-probability](https://github.com/AmbarC27/Leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/AmbarC27/Leetcode/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/AmbarC27/Leetcode/tree/master/1325-path-with-maximum-probability) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1100-connecting-cities-with-minimum-cost](https://github.com/AmbarC27/Leetcode/tree/master/1100-connecting-cities-with-minimum-cost) |
 <!---LeetCode Topics End-->
