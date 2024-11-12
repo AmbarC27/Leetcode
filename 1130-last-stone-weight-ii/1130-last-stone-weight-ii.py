@@ -1,5 +1,8 @@
 class Solution:
     def lastStoneWeightII(self, stones: List[int]) -> int:
+        ## We are trying to find two subsets. In one we add up 
+        ## all numbers, in the other we subtract all numbers. The 
+        ## memoize function finds the sum of the subtracting set
         tot_sum = sum(stones)
         subset_sum = tot_sum // 2
 
@@ -19,8 +22,5 @@ class Solution:
             return dp[remaining_sum][idx]
 
         subtraction_sum = memoize(subset_sum, 0)
-        print(subtraction_sum)
         addition_sum = tot_sum - subtraction_sum
         return addition_sum - subtraction_sum
-
-        
