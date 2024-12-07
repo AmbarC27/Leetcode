@@ -15,9 +15,6 @@ class Solution:
             if s[l] == s[r]:
                 return 2 + helper(l+1,r-1)
             else:
-                # a = helper(l+1,r)
-                # b = helper(l,r-1)
-                # return max(a,b)
                 dp[l][r] = max(helper(l+1,r),helper(l,r-1))
                 return dp[l][r]
         
