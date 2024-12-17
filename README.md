@@ -205,4 +205,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AmbarC27/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Database
+|  |
+| ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/AmbarC27/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
