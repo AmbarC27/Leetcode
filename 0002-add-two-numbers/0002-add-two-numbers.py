@@ -14,9 +14,9 @@ class Solution:
             val1 = ptr_one.val if ptr_one else 0
             val2 = ptr_two.val if ptr_two else 0
             summ = val1 + val2 + carry
-            curr_val = summ % 10
+            col_sum = summ % 10
             carry = summ // 10
-            curr.next = ListNode(curr_val)
+            curr.next = ListNode(col_sum)
             curr = curr.next
             ptr_one = ptr_one.next if ptr_one else None
             ptr_two = ptr_two.next if ptr_two else None
