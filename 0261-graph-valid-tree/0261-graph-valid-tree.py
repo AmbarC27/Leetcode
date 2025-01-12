@@ -13,7 +13,6 @@ class Solution:
             adj_list[edge[0]].append(edge[1])
             adj_list[edge[1]].append(edge[0])
         
-        nodes_visited = []
         visited = set()
 
         def dfs(i):
@@ -24,7 +23,6 @@ class Solution:
             ## If we did add to the visited set while iterating over the neighbors,
             ## then we would need to initate visited set with node 0 (starting node)
             ## even before we start DFS
-
             neighbors = adj_list[i]
             for neighbor in neighbors:
                 if neighbor not in visited:
