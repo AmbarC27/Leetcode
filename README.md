@@ -139,6 +139,7 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/AmbarC27/Leetcode/tree/master/0739-daily-temperatures) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AmbarC27/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/AmbarC27/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/AmbarC27/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AmbarC27/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AmbarC27/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/AmbarC27/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AmbarC27/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -222,4 +224,8 @@
 |  |
 | ------- |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/AmbarC27/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+## Greedy
+|  |
+| ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AmbarC27/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
