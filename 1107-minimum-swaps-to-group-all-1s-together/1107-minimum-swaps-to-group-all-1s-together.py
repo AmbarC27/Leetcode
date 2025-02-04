@@ -4,7 +4,6 @@ class Solution:
         l = 0
         r = num_of_ones
 
-        #ans = num_of_ones
         zeros_in_window = r - sum(data[l:r])
         ans = zeros_in_window
         while r < len(data):
