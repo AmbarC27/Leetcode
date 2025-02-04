@@ -1,5 +1,9 @@
 class Solution:
     def minSwaps(self, data: List[int]) -> int:
+        ## strategy is to have a fixed sliding window with size being
+        ## the number of 1's in the data array
+        ## While sliding we update answer as number of holes within the
+        ## sliding window
         num_of_ones = sum(data)
         l = 0
         r = num_of_ones
