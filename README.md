@@ -67,6 +67,7 @@
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/AmbarC27/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmbarC27/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AmbarC27/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2155-find-missing-observations](https://github.com/AmbarC27/Leetcode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/AmbarC27/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Prefix Sum
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/AmbarC27/Leetcode/tree/master/0739-daily-temperatures) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AmbarC27/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AmbarC27/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
@@ -206,6 +208,7 @@
 | [0474-ones-and-zeroes](https://github.com/AmbarC27/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/AmbarC27/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/AmbarC27/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AmbarC27/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AmbarC27/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AmbarC27/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/AmbarC27/Leetcode/tree/master/2755-extra-characters-in-a-string) |
