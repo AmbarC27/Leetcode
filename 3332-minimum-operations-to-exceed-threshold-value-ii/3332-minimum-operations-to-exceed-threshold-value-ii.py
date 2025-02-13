@@ -3,7 +3,10 @@ class Solution:
         minheap = [num for num in nums]
         heapq.heapify(minheap)
         operations = 0
-        while minheap[0] < k and len(minheap) >= 2:
+        ## Note you dont need to condition on length being greater than 2
+        ## as the test cases are generated such that the min number will
+        ## always reach or surpass k
+        while minheap[0] < k:
             ## Assume x is smallest, y is 2nd smallest
             x = heapq.heappop(minheap)
             y = heapq.heappop(minheap)
