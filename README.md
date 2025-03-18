@@ -8,6 +8,7 @@
 | [0090-subsets-ii](https://github.com/AmbarC27/Leetcode/tree/master/0090-subsets-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AmbarC27/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/AmbarC27/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/AmbarC27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/AmbarC27/Leetcode/tree/master/0739-daily-temperatures) |
 | [0906-walking-robot-simulation](https://github.com/AmbarC27/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1025-minimum-cost-for-tickets](https://github.com/AmbarC27/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -75,10 +76,12 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AmbarC27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmbarC27/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AmbarC27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0778-reorganize-string](https://github.com/AmbarC27/Leetcode/tree/master/0778-reorganize-string) |
 | [0906-walking-robot-simulation](https://github.com/AmbarC27/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1502-construct-k-palindrome-strings](https://github.com/AmbarC27/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
