@@ -22,11 +22,6 @@ class Solution:
             n = len(sites)
             if n < 3:
                 continue
-            # for i in range(n-2):
-            #     for j in range(i+1,n-1):
-            #         for k in range(j+1,n):
-            #             pattern = (sites[i],sites[j],sites[k])
-            #             patterns[pattern] = patterns.get(pattern,0) + 1
             seen = set()  # To track unique patterns for this user
             for i in range(n - 2):
                 for j in range(i + 1, n - 1):
@@ -46,8 +41,5 @@ class Solution:
                 max_pattern = [pattern]
             elif val == max_count:
                 max_pattern.append(pattern)
-        print(patterns)
-        print(max_pattern)
         max_pattern = sorted(max_pattern)
-        print(max_pattern)
         return max_pattern[0]
