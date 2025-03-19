@@ -12,6 +12,7 @@
 | [0525-contiguous-array](https://github.com/AmbarC27/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AmbarC27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/AmbarC27/Leetcode/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/AmbarC27/Leetcode/tree/master/0883-car-fleet) |
 | [0906-walking-robot-simulation](https://github.com/AmbarC27/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1025-minimum-cost-for-tickets](https://github.com/AmbarC27/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/AmbarC27/Leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
@@ -131,6 +132,7 @@
 | [0075-sort-colors](https://github.com/AmbarC27/Leetcode/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/AmbarC27/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0778-reorganize-string](https://github.com/AmbarC27/Leetcode/tree/master/0778-reorganize-string) |
+| [0883-car-fleet](https://github.com/AmbarC27/Leetcode/tree/master/0883-car-fleet) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/AmbarC27/Leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AmbarC27/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Tree
@@ -164,12 +166,14 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/AmbarC27/Leetcode/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/AmbarC27/Leetcode/tree/master/0883-car-fleet) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AmbarC27/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AmbarC27/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/AmbarC27/Leetcode/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/AmbarC27/Leetcode/tree/master/0883-car-fleet) |
 ## Recursion
 |  |
 | ------- |
