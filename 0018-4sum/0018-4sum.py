@@ -17,15 +17,11 @@ class Solution:
                     threesum = nums[b] + nums[c] + nums[d]
                     if threesum == threesum_target:
                         ans.append([nums[a],nums[b],nums[c],nums[d]])
-                        c += 1 ## can move any pointer
+                        c += 1 ## can move any pointer (c or d)
                         while nums[c-1] == nums[c] and c < d:
                             c += 1
-                        # while nums[d] == nums[d-1] and c < d:
-                        #     d -= 1
                     elif threesum < threesum_target:
                         c += 1
                     elif threesum > threesum_target:
                         d -= 1
-                    # while nums[c-1] == nums[c] and c < d:
-                    #     c += 1
         return ans
