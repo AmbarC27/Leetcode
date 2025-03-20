@@ -17,14 +17,20 @@ class Solution:
                 if t_dict[s[r]] == 0:
                     curr_set.remove(s[r])
             while not curr_set:
-                
+                curr_str = s[l:r+1]
+                if len(curr_str) < len(ans):
+                    ans = curr_str
+
                 if s[l] in t_dict:
                     t_dict[s[l]] += 1
                     if t_dict[s[l]] == 1:
                         curr_set.add(s[l])
-                curr_str = s[l:r+1]
-                if len(curr_str) < len(ans):
-                    ans = curr_str
+
+                ## Having this block both before or after the "s[l] in t_dict" 
+                ## block works
+                # curr_str = s[l:r+1]
+                # if len(curr_str) < len(ans):
+                #     ans = curr_str
                 l += 1
             r += 1
         if len(ans) == 100001:
