@@ -1,5 +1,11 @@
 class Solution:
     def maxChunksToSorted(self, arr: List[int]) -> int:
+        ## Note for this question we could have also used a monotonically
+        ## increasing stack, whereby each number in the stack would represent
+        ## the minimum element in each chunk (not max as suggested by editorial
+        ## 3). Thus the stack contains one number from each chunk, and so number
+        ## of chunks equals length of stack
+
         chunks = 0
         max_in_current_chunk = -1
 
