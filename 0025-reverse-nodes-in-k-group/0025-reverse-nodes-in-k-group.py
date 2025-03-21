@@ -17,14 +17,14 @@ class Solution:
             # reverse group
             prev, curr = kth.next, groupPrev.next
             while curr != groupNext:
-                tmp = curr.next
+                nxt = curr.next
                 curr.next = prev
                 prev = curr
-                curr = tmp
+                curr = nxt
 
-            tmp = groupPrev.next
+            nxt = groupPrev.next
             groupPrev.next = kth
-            groupPrev = tmp
+            groupPrev = nxt
         return dummy.next
 
     def getKth(self, curr, k):
