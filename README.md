@@ -21,6 +21,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/AmbarC27/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/AmbarC27/Leetcode/tree/master/0883-car-fleet) |
 | [0906-walking-robot-simulation](https://github.com/AmbarC27/Leetcode/tree/master/0906-walking-robot-simulation) |
+| [0940-fruit-into-baskets](https://github.com/AmbarC27/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1025-minimum-cost-for-tickets](https://github.com/AmbarC27/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/AmbarC27/Leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/AmbarC27/Leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
@@ -116,6 +117,7 @@
 | [0778-reorganize-string](https://github.com/AmbarC27/Leetcode/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/AmbarC27/Leetcode/tree/master/0906-walking-robot-simulation) |
+| [0940-fruit-into-baskets](https://github.com/AmbarC27/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/AmbarC27/Leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1502-construct-k-palindrome-strings](https://github.com/AmbarC27/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/AmbarC27/Leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
@@ -335,6 +337,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/AmbarC27/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0658-find-k-closest-elements](https://github.com/AmbarC27/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0940-fruit-into-baskets](https://github.com/AmbarC27/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/AmbarC27/Leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AmbarC27/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Randomized
