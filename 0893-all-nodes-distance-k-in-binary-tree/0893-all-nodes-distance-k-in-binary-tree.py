@@ -44,8 +44,6 @@ class Solution:
             while curr_level:
                 vertex = curr_level.popleft()
                 ans.append(vertex)
-                print(vertex)
-                print(adj_dict)
                 if vertex in adj_dict:
                     for nei in adj_dict[vertex]:
                         if nei not in visited:
