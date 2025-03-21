@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0250-count-univalue-subtrees](https://github.com/AmbarC27/Leetcode/tree/master/0250-count-univalue-subtrees) |
 | [0261-graph-valid-tree](https://github.com/AmbarC27/Leetcode/tree/master/0261-graph-valid-tree) |
 | [0386-lexicographical-numbers](https://github.com/AmbarC27/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/AmbarC27/Leetcode/tree/master/0684-redundant-connection) |
@@ -163,12 +164,14 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0250-count-univalue-subtrees](https://github.com/AmbarC27/Leetcode/tree/master/0250-count-univalue-subtrees) |
 | [1484-linked-list-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/AmbarC27/Leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0250-count-univalue-subtrees](https://github.com/AmbarC27/Leetcode/tree/master/0250-count-univalue-subtrees) |
 | [1484-linked-list-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/AmbarC27/Leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Number Theory
