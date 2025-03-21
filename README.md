@@ -25,6 +25,7 @@
 | [1108-analyze-user-website-visit-pattern](https://github.com/AmbarC27/Leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1130-last-stone-weight-ii](https://github.com/AmbarC27/Leetcode/tree/master/1130-last-stone-weight-ii) |
 | [1325-path-with-maximum-probability](https://github.com/AmbarC27/Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AmbarC27/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1909-buildings-with-an-ocean-view](https://github.com/AmbarC27/Leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AmbarC27/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmbarC27/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -255,6 +256,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/AmbarC27/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/AmbarC27/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1130-last-stone-weight-ii](https://github.com/AmbarC27/Leetcode/tree/master/1130-last-stone-weight-ii) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AmbarC27/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2755-extra-characters-in-a-string](https://github.com/AmbarC27/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Trie
 |  |
