@@ -118,6 +118,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AmbarC27/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AmbarC27/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/AmbarC27/Leetcode/tree/master/0139-word-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmbarC27/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -297,6 +298,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AmbarC27/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AmbarC27/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/AmbarC27/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/AmbarC27/Leetcode/tree/master/0139-word-break) |
@@ -358,6 +360,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AmbarC27/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AmbarC27/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0658-find-k-closest-elements](https://github.com/AmbarC27/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/AmbarC27/Leetcode/tree/master/0940-fruit-into-baskets) |
