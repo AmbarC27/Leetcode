@@ -1,5 +1,7 @@
 class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
+        ## Use a hashmap to encode frequency to ensure we dont use
+        ## a number more than it appears
         ans = []
         max_num = max(nums)
         min_num = min(nums)
