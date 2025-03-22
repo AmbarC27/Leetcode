@@ -205,6 +205,7 @@
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/AmbarC27/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/AmbarC27/Leetcode/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/AmbarC27/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AmbarC27/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -263,6 +264,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/AmbarC27/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/AmbarC27/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/AmbarC27/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/AmbarC27/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1025-minimum-cost-for-tickets](https://github.com/AmbarC27/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1130-last-stone-weight-ii](https://github.com/AmbarC27/Leetcode/tree/master/1130-last-stone-weight-ii) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AmbarC27/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -284,6 +286,7 @@
 | [0139-word-break](https://github.com/AmbarC27/Leetcode/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/AmbarC27/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/AmbarC27/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/AmbarC27/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0778-reorganize-string](https://github.com/AmbarC27/Leetcode/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AmbarC27/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/AmbarC27/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -324,6 +327,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AmbarC27/Leetcode/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/AmbarC27/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0778-reorganize-string](https://github.com/AmbarC27/Leetcode/tree/master/0778-reorganize-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/AmbarC27/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AmbarC27/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
