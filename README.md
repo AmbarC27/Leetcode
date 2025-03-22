@@ -54,6 +54,7 @@
 | [0226-invert-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0250-count-univalue-subtrees](https://github.com/AmbarC27/Leetcode/tree/master/0250-count-univalue-subtrees) |
 | [0261-graph-valid-tree](https://github.com/AmbarC27/Leetcode/tree/master/0261-graph-valid-tree) |
+| [0339-nested-list-weight-sum](https://github.com/AmbarC27/Leetcode/tree/master/0339-nested-list-weight-sum) |
 | [0386-lexicographical-numbers](https://github.com/AmbarC27/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/AmbarC27/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AmbarC27/Leetcode/tree/master/0695-max-area-of-island) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/AmbarC27/Leetcode/tree/master/0261-graph-valid-tree) |
+| [0339-nested-list-weight-sum](https://github.com/AmbarC27/Leetcode/tree/master/0339-nested-list-weight-sum) |
 | [0684-redundant-connection](https://github.com/AmbarC27/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AmbarC27/Leetcode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/AmbarC27/Leetcode/tree/master/0744-network-delay-time) |
