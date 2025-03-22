@@ -34,6 +34,7 @@
 | [2035-count-sub-islands](https://github.com/AmbarC27/Leetcode/tree/master/2035-count-sub-islands) |
 | [2139-detect-squares](https://github.com/AmbarC27/Leetcode/tree/master/2139-detect-squares) |
 | [2155-find-missing-observations](https://github.com/AmbarC27/Leetcode/tree/master/2155-find-missing-observations) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/AmbarC27/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2354-minimum-health-to-beat-game](https://github.com/AmbarC27/Leetcode/tree/master/2354-minimum-health-to-beat-game) |
 | [2411-spiral-matrix-iv](https://github.com/AmbarC27/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AmbarC27/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -97,6 +98,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmbarC27/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AmbarC27/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2155-find-missing-observations](https://github.com/AmbarC27/Leetcode/tree/master/2155-find-missing-observations) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/AmbarC27/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/AmbarC27/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AmbarC27/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Prefix Sum
@@ -135,6 +137,7 @@
 | [0050-powx-n](https://github.com/AmbarC27/Leetcode/tree/master/0050-powx-n) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmbarC27/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2155-find-missing-observations](https://github.com/AmbarC27/Leetcode/tree/master/2155-find-missing-observations) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/AmbarC27/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AmbarC27/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Linked List
 |  |
@@ -352,4 +355,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AmbarC27/Leetcode/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/AmbarC27/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
