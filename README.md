@@ -14,6 +14,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/AmbarC27/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/AmbarC27/Leetcode/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/AmbarC27/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0472-concatenated-words](https://github.com/AmbarC27/Leetcode/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/AmbarC27/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0525-contiguous-array](https://github.com/AmbarC27/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AmbarC27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -57,6 +58,7 @@
 | [0261-graph-valid-tree](https://github.com/AmbarC27/Leetcode/tree/master/0261-graph-valid-tree) |
 | [0339-nested-list-weight-sum](https://github.com/AmbarC27/Leetcode/tree/master/0339-nested-list-weight-sum) |
 | [0386-lexicographical-numbers](https://github.com/AmbarC27/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0472-concatenated-words](https://github.com/AmbarC27/Leetcode/tree/master/0472-concatenated-words) |
 | [0684-redundant-connection](https://github.com/AmbarC27/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AmbarC27/Leetcode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/AmbarC27/Leetcode/tree/master/0744-network-delay-time) |
@@ -282,6 +284,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/AmbarC27/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/AmbarC27/Leetcode/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/AmbarC27/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0472-concatenated-words](https://github.com/AmbarC27/Leetcode/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/AmbarC27/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/AmbarC27/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/AmbarC27/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -296,6 +299,7 @@
 | [0139-word-break](https://github.com/AmbarC27/Leetcode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/AmbarC27/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/AmbarC27/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0472-concatenated-words](https://github.com/AmbarC27/Leetcode/tree/master/0472-concatenated-words) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AmbarC27/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/AmbarC27/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AmbarC27/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -306,6 +310,7 @@
 | [0005-longest-palindromic-substring](https://github.com/AmbarC27/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/AmbarC27/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/AmbarC27/Leetcode/tree/master/0139-word-break) |
+| [0472-concatenated-words](https://github.com/AmbarC27/Leetcode/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/AmbarC27/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/AmbarC27/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/AmbarC27/Leetcode/tree/master/0678-valid-parenthesis-string) |
