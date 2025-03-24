@@ -2,14 +2,10 @@ class Solution:
     def platesBetweenCandles(self, s: str, queries: List[List[int]]) -> List[int]:
         # Step 1: Record positions of all candles
         candles = []
-        ## candles_idx holds the sequence number of each candle i.e the order in
-        ## which it appears from the left
-        candles_idx = {}
 
         for i in range(len(s)):
             if s[i] == "|":
                 candles.append(i)
-                candles_idx[i] = i
 
         ans = []
 
