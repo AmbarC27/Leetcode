@@ -5,12 +5,11 @@ class Solution:
         ## candles_idx holds the sequence number of each candle i.e the order in
         ## which it appears from the left
         candles_idx = {}
-        pos = 0
+
         for i in range(len(s)):
             if s[i] == "|":
                 candles.append(i)
-                candles_idx[i] = pos
-                pos += 1
+                candles_idx[i] = i
 
         ans = []
 
