@@ -21,10 +21,11 @@ class Solution:
             while l <= r:
                 mid = (l + r) // 2
                 if candles[mid] >= start:
-                    left_most_candle = mid
+                    #left_most_candle = mid
                     r = mid - 1
                 else:
                     l = mid + 1
+            left_most_candle = l
 
             # Binary search for the rightmost candle <= end
             l, r = 0, len(candles) - 1
@@ -32,10 +33,11 @@ class Solution:
             while l <= r:
                 mid = (l + r) // 2
                 if candles[mid] <= end:
-                    right_most_candle = mid
+                    #right_most_candle = mid
                     l = mid + 1
                 else:
                     r = mid - 1
+            right_most_candle = r
 
             # If valid candle bounds are found
             if left_most_candle != -1 and right_most_candle != -1 and left_most_candle < right_most_candle:
