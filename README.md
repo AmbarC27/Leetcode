@@ -12,6 +12,7 @@
 | [0075-sort-colors](https://github.com/AmbarC27/Leetcode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/AmbarC27/Leetcode/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/AmbarC27/Leetcode/tree/master/0139-word-break) |
+| [0283-move-zeroes](https://github.com/AmbarC27/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/AmbarC27/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmbarC27/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/AmbarC27/Leetcode/tree/master/0403-frog-jump) |
@@ -187,6 +188,7 @@
 | [0075-sort-colors](https://github.com/AmbarC27/Leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/AmbarC27/Leetcode/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/AmbarC27/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/AmbarC27/Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/AmbarC27/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/AmbarC27/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/AmbarC27/Leetcode/tree/master/0680-valid-palindrome-ii) |
