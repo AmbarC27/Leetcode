@@ -48,6 +48,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AmbarC27/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AmbarC27/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AmbarC27/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2665-minimum-time-to-repair-cars](https://github.com/AmbarC27/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2755-extra-characters-in-a-string](https://github.com/AmbarC27/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AmbarC27/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AmbarC27/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -112,6 +113,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AmbarC27/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmbarC27/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2165-plates-between-candles](https://github.com/AmbarC27/Leetcode/tree/master/2165-plates-between-candles) |
+| [2665-minimum-time-to-repair-cars](https://github.com/AmbarC27/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Simulation
 |  |
 | ------- |
