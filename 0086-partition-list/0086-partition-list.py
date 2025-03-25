@@ -19,6 +19,7 @@ class Solution:
                 greater_than_x_ptr = greater_than_x_ptr.next
             curr = curr.next
 
-        greater_than_x_ptr.next = None ## Important line to avoid loop
+        greater_than_x_ptr.next = None ## Important line to avoid loop, also as it
+        ## is the last node so it needs to point to None
         lesser_than_x_ptr.next = greater_than_x.next
         return lesser_than_x.next
