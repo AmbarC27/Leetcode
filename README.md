@@ -168,6 +168,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/AmbarC27/Leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AmbarC27/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0086-partition-list](https://github.com/AmbarC27/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/AmbarC27/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [1484-linked-list-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/AmbarC27/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -179,6 +180,7 @@
 | [0005-longest-palindromic-substring](https://github.com/AmbarC27/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/AmbarC27/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/AmbarC27/Leetcode/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/AmbarC27/Leetcode/tree/master/0086-partition-list) |
 | [0295-find-median-from-data-stream](https://github.com/AmbarC27/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/AmbarC27/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/AmbarC27/Leetcode/tree/master/0680-valid-palindrome-ii) |
