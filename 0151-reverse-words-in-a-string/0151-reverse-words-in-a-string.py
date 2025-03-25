@@ -17,6 +17,7 @@ class Solution:
                 curr_word = curr_word + s[i]
                 i += 1
         
+        ## Adding the last word if there is no extra space at the end of s
         if curr_word != "":
             words.append(curr_word)
 
