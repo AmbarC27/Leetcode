@@ -12,6 +12,7 @@ class WordDictionary:
         curr.endofword = True
 
     def search(self, word: str) -> bool:
+        ## Look at neetcode's solution too
         def recursive_search(word,curr):
             if len(word) == 0:
                 return curr.endofword
