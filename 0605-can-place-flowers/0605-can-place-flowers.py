@@ -6,6 +6,7 @@ class Solution:
             else:
                 return n == 0
 
+        ## Case when length of array >= 2
         for i in range(len(flowerbed)):
             if i == 0:
                 if flowerbed[i] == 0 and flowerbed[i+1] == 0:
