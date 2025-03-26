@@ -12,11 +12,10 @@ class Solution:
                     ## bit needs to be flipped
                     flips += 1
                 else:
-                    ## c_bit is 0, and as there is a mismatch it must mean both
-                    ## a_bit and b_bit are zero, so both bits need to be flipped
-                    #flips += 2
+                    ## c_bit is 0, and both a_bit and b_bit are 1 and need to flip
                     if a_bit and b_bit:
                         flips += 2
+                    ## c_bit is 0, either a_bit or b_bit is 1, so one needs to flip
                     elif a_bit or b_bit:
                         flips += 1
             a = a >> 1
