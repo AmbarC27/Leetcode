@@ -15,6 +15,8 @@ class Solution:
                         ans += 1
                         hashmap[num] -= 2
         return ans
+
+        ## Both approaches work
         # nums.sort()
         # l = 0
         # r = len(nums) - 1
