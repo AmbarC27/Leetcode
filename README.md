@@ -129,6 +129,7 @@
 | [2155-find-missing-observations](https://github.com/AmbarC27/Leetcode/tree/master/2155-find-missing-observations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AmbarC27/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/AmbarC27/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2470-removing-stars-from-a-string](https://github.com/AmbarC27/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AmbarC27/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Prefix Sum
 |  |
@@ -261,6 +262,7 @@
 | [1909-buildings-with-an-ocean-view](https://github.com/AmbarC27/Leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AmbarC27/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AmbarC27/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2470-removing-stars-from-a-string](https://github.com/AmbarC27/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -359,6 +361,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AmbarC27/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2165-plates-between-candles](https://github.com/AmbarC27/Leetcode/tree/master/2165-plates-between-candles) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AmbarC27/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2470-removing-stars-from-a-string](https://github.com/AmbarC27/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AmbarC27/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/AmbarC27/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AmbarC27/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
