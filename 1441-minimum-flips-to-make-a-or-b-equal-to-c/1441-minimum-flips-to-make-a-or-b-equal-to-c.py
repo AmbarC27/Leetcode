@@ -22,7 +22,3 @@ class Solution:
             b = b >> 1
             c = c >> 1
         return flips
-        
-        ## a = 1000
-        ## b = 0011
-        ## c = 0101
