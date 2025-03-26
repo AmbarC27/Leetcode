@@ -262,6 +262,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/AmbarC27/Leetcode/tree/master/0090-subsets-ii) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/AmbarC27/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AmbarC27/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AmbarC27/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AmbarC27/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
