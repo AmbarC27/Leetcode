@@ -13,6 +13,7 @@
 | [0090-subsets-ii](https://github.com/AmbarC27/Leetcode/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/AmbarC27/Leetcode/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/AmbarC27/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0256-paint-house](https://github.com/AmbarC27/Leetcode/tree/master/0256-paint-house) |
 | [0283-move-zeroes](https://github.com/AmbarC27/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/AmbarC27/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmbarC27/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -336,6 +337,7 @@
 | [0064-minimum-path-sum](https://github.com/AmbarC27/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmbarC27/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/AmbarC27/Leetcode/tree/master/0139-word-break) |
+| [0256-paint-house](https://github.com/AmbarC27/Leetcode/tree/master/0256-paint-house) |
 | [0300-longest-increasing-subsequence](https://github.com/AmbarC27/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/AmbarC27/Leetcode/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/AmbarC27/Leetcode/tree/master/0435-non-overlapping-intervals) |
