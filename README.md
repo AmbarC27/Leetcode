@@ -77,6 +77,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/AmbarC27/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/AmbarC27/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/AmbarC27/Leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2035-count-sub-islands](https://github.com/AmbarC27/Leetcode/tree/master/2035-count-sub-islands) |
@@ -224,6 +225,7 @@
 | [0226-invert-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0250-count-univalue-subtrees](https://github.com/AmbarC27/Leetcode/tree/master/0250-count-univalue-subtrees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/AmbarC27/Leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Binary Tree
@@ -233,6 +235,7 @@
 | [0226-invert-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0250-count-univalue-subtrees](https://github.com/AmbarC27/Leetcode/tree/master/0250-count-univalue-subtrees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/AmbarC27/Leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Number Theory
@@ -327,6 +330,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/AmbarC27/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1025-minimum-cost-for-tickets](https://github.com/AmbarC27/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1130-last-stone-weight-ii](https://github.com/AmbarC27/Leetcode/tree/master/1130-last-stone-weight-ii) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AmbarC27/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2755-extra-characters-in-a-string](https://github.com/AmbarC27/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Trie
