@@ -11,8 +11,8 @@ class Solution:
                 ## Reached the sum before having k numbers, thus discard
                 return
             
-            for num in range(curr_num+1,9+1):
+            for num in range(curr_num,9+1):
                 new_combo = curr_combo + [num]
-                backtrack(num, remaining_sum - num, remaining_nums - 1, new_combo)
-        backtrack(0, n, k, [])
+                backtrack(num+1, remaining_sum - num, remaining_nums - 1, new_combo)
+        backtrack(1, n, k, [])
         return ans
