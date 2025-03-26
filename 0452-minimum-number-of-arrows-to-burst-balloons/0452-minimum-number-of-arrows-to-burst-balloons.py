@@ -10,5 +10,7 @@ class Solution:
             else:
                 ans += 1
                 leftmost_balloon_right_border = end
+        ## Increment after end of traversal as we still have an unpopped
+        ## balloon group
         ans += 1
         return ans
