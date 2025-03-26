@@ -165,6 +165,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmbarC27/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/AmbarC27/Leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2139-detect-squares](https://github.com/AmbarC27/Leetcode/tree/master/2139-detect-squares) |
+| [2413-smallest-number-in-infinite-set](https://github.com/AmbarC27/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AmbarC27/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/AmbarC27/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AmbarC27/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -299,6 +300,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/AmbarC27/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/AmbarC27/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [2139-detect-squares](https://github.com/AmbarC27/Leetcode/tree/master/2139-detect-squares) |
+| [2413-smallest-number-in-infinite-set](https://github.com/AmbarC27/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Counting
 |  |
 | ------- |
@@ -388,6 +390,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/AmbarC27/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/AmbarC27/Leetcode/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1325-path-with-maximum-probability](https://github.com/AmbarC27/Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2413-smallest-number-in-infinite-set](https://github.com/AmbarC27/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AmbarC27/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Shortest Path
 |  |
@@ -450,4 +453,8 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/AmbarC27/Leetcode/tree/master/0969-number-of-recent-calls) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/AmbarC27/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
