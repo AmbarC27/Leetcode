@@ -27,7 +27,7 @@ class Solution:
         count = 0
         for i in range(1,len(intervals)):
             interval_start, interval_end = intervals[i]
-            ## Overlap
+            ## Overlap, so you remove the current interval
             if interval_start < last_interval[-1]:
                 count += 1
             else:
