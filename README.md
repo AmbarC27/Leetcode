@@ -288,6 +288,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/AmbarC27/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/AmbarC27/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmbarC27/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0969-number-of-recent-calls](https://github.com/AmbarC27/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [2139-detect-squares](https://github.com/AmbarC27/Leetcode/tree/master/2139-detect-squares) |
 ## Counting
 |  |
@@ -391,6 +392,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AmbarC27/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0969-number-of-recent-calls](https://github.com/AmbarC27/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Database
 |  |
 | ------- |
@@ -433,4 +435,8 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AmbarC27/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/AmbarC27/Leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
