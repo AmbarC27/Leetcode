@@ -37,6 +37,7 @@
 | [1130-last-stone-weight-ii](https://github.com/AmbarC27/Leetcode/tree/master/1130-last-stone-weight-ii) |
 | [1325-path-with-maximum-probability](https://github.com/AmbarC27/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AmbarC27/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AmbarC27/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AmbarC27/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1909-buildings-with-an-ocean-view](https://github.com/AmbarC27/Leetcode/tree/master/1909-buildings-with-an-ocean-view) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AmbarC27/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -152,6 +153,7 @@
 | [1108-analyze-user-website-visit-pattern](https://github.com/AmbarC27/Leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmbarC27/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/AmbarC27/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AmbarC27/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/AmbarC27/Leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2139-detect-squares](https://github.com/AmbarC27/Leetcode/tree/master/2139-detect-squares) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AmbarC27/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -192,6 +194,7 @@
 | [0295-find-median-from-data-stream](https://github.com/AmbarC27/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/AmbarC27/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/AmbarC27/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AmbarC27/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AmbarC27/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
@@ -206,6 +209,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/AmbarC27/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/AmbarC27/Leetcode/tree/master/0883-car-fleet) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/AmbarC27/Leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AmbarC27/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AmbarC27/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AmbarC27/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Tree
