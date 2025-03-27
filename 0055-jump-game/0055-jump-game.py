@@ -11,9 +11,10 @@ class Solution:
         # return False
 
         ## Either approach works
+        ## Edge case
         if len(nums) == 1:
             return True
-        furthest_jump = nums[0] ## Edge case
+        furthest_jump = nums[0] 
         i = 1
         while i <= furthest_jump:
             furthest_jump = max(furthest_jump, i + nums[i])
