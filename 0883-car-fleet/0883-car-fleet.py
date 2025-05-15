@@ -3,7 +3,7 @@ class Solution:
         n = len(position)
         cars_speed = {position[i]: speed[i] for i in range(n)}
         position_sorted = sorted(position,reverse=True)
-        cars_speed_sorted = {position[i]: cars_speed[position[i]] for i in range(n)}
+        #cars_speed_sorted = {position[i]: cars_speed[position[i]] for i in range(n)}
         # cars_speed_sorted = cars_speed_sorted.values()
         time_to_dest = [0]*n
         for i in range(n):
