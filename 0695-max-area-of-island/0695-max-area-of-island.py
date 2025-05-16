@@ -11,7 +11,7 @@ class Solution:
                     area = 0
                     grid[j][i] = 0 ## marking it so that we dont process it again
                     while queue:
-                        area += 1
+                        # area += 1
                         x,y = queue.popleft()
                         for dx,dy in [[0,1],[0,-1],[1,0],[-1,0]]:
                             nx = x + dx
@@ -19,5 +19,6 @@ class Solution:
                             if (0 <= nx < n) and (0 <= ny < m) and grid[ny][nx] == 1:
                                 queue.append([nx,ny])
                                 grid[ny][nx] = 0 ## marking it so that we dont process it again
+                        area += 1
                     max_area = max(max_area,area)
         return max_area
