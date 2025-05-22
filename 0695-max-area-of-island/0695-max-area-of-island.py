@@ -11,8 +11,8 @@ class Solution:
                     area = 0
                     grid[j][i] = 0 ## marking it so that we dont process it again
                     while queue:
-                        # area += 1 ## can increment area either before or after processing
                         x,y = queue.popleft()
+                        # area += 1 ## can increment area either before or after processing
                         for dx,dy in [[0,1],[0,-1],[1,0],[-1,0]]:
                             nx = x + dx
                             ny = y + dy
