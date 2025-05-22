@@ -357,6 +357,7 @@
 | [0005-longest-palindromic-substring](https://github.com/AmbarC27/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/AmbarC27/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/AmbarC27/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/AmbarC27/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/AmbarC27/Leetcode/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmbarC27/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/AmbarC27/Leetcode/tree/master/0139-word-break) |
@@ -393,6 +394,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmbarC27/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AmbarC27/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/AmbarC27/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/AmbarC27/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/AmbarC27/Leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/AmbarC27/Leetcode/tree/master/0139-word-break) |
