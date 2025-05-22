@@ -6,6 +6,7 @@ class Solution:
                 adj_dict[source] = [[dest,cost]]
             else:
                 adj_dict[source].append([dest,cost])
+
         costs = [float("inf")] * n
         next_level = collections.deque()
         next_level.append([src,0])
@@ -23,6 +24,7 @@ class Solution:
                         costs[next_airport] = curr_cost + next_cost
                         next_level.append([next_airport,costs[next_airport]])
             stops += 1
+
         if costs[dst] == float('inf'):
             return -1
         return costs[dst]
