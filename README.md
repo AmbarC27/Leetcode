@@ -204,6 +204,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AmbarC27/Leetcode/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/AmbarC27/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AmbarC27/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/AmbarC27/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/AmbarC27/Leetcode/tree/master/0092-reverse-linked-list-ii) |
@@ -421,6 +422,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AmbarC27/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/AmbarC27/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/AmbarC27/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/AmbarC27/Leetcode/tree/master/0744-network-delay-time) |
@@ -503,4 +505,12 @@
 |  |
 | ------- |
 | [1977-minimum-interval-to-include-each-query](https://github.com/AmbarC27/Leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AmbarC27/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AmbarC27/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
