@@ -37,6 +37,7 @@
 | [0906-walking-robot-simulation](https://github.com/AmbarC27/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/AmbarC27/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/AmbarC27/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [0976-minimum-area-rectangle](https://github.com/AmbarC27/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/AmbarC27/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/AmbarC27/Leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/AmbarC27/Leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
@@ -176,6 +177,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/AmbarC27/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/AmbarC27/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0976-minimum-area-rectangle](https://github.com/AmbarC27/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/AmbarC27/Leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmbarC27/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/AmbarC27/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -196,6 +198,7 @@
 | [0002-add-two-numbers](https://github.com/AmbarC27/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/AmbarC27/Leetcode/tree/master/0050-powx-n) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmbarC27/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0976-minimum-area-rectangle](https://github.com/AmbarC27/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1236-n-th-tribonacci-number](https://github.com/AmbarC27/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2155-find-missing-observations](https://github.com/AmbarC27/Leetcode/tree/master/2155-find-missing-observations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AmbarC27/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -240,6 +243,7 @@
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/AmbarC27/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AmbarC27/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/AmbarC27/Leetcode/tree/master/0883-car-fleet) |
+| [0976-minimum-area-rectangle](https://github.com/AmbarC27/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/AmbarC27/Leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AmbarC27/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmbarC27/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -513,4 +517,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AmbarC27/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0976-minimum-area-rectangle](https://github.com/AmbarC27/Leetcode/tree/master/0976-minimum-area-rectangle) |
 <!---LeetCode Topics End-->
