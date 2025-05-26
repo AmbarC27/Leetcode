@@ -17,6 +17,8 @@ class Solution:
                 ## reset
                 last_char = chars[i]
                 consec_length = 1
+        ## The last group of consecutive characters will not be 
+        ## processed within the loop
         if consec_length == 1:
             string_to_insert = last_char
         else:
