@@ -42,6 +42,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/AmbarC27/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0976-minimum-area-rectangle](https://github.com/AmbarC27/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/AmbarC27/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1036-rotting-oranges](https://github.com/AmbarC27/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmbarC27/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/AmbarC27/Leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/AmbarC27/Leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
@@ -121,6 +122,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/AmbarC27/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/AmbarC27/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/AmbarC27/Leetcode/tree/master/1036-rotting-oranges) |
 | [1142-minimum-knight-moves](https://github.com/AmbarC27/Leetcode/tree/master/1142-minimum-knight-moves) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/AmbarC27/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AmbarC27/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -144,6 +146,7 @@
 | [0695-max-area-of-island](https://github.com/AmbarC27/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AmbarC27/Leetcode/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/AmbarC27/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/AmbarC27/Leetcode/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/AmbarC27/Leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/AmbarC27/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2411-spiral-matrix-iv](https://github.com/AmbarC27/Leetcode/tree/master/2411-spiral-matrix-iv) |
