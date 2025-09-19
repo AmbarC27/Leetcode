@@ -16,6 +16,7 @@
 | [0216-combination-sum-iii](https://github.com/AmbarC27/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0256-paint-house](https://github.com/AmbarC27/Leetcode/tree/master/0256-paint-house) |
 | [0283-move-zeroes](https://github.com/AmbarC27/Leetcode/tree/master/0283-move-zeroes) |
+| [0286-walls-and-gates](https://github.com/AmbarC27/Leetcode/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/AmbarC27/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmbarC27/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/AmbarC27/Leetcode/tree/master/0403-frog-jump) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0226-invert-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/AmbarC27/Leetcode/tree/master/0261-graph-valid-tree) |
+| [0286-walls-and-gates](https://github.com/AmbarC27/Leetcode/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AmbarC27/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/AmbarC27/Leetcode/tree/master/0339-nested-list-weight-sum) |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/AmbarC27/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0286-walls-and-gates](https://github.com/AmbarC27/Leetcode/tree/master/0286-walls-and-gates) |
 | [0695-max-area-of-island](https://github.com/AmbarC27/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AmbarC27/Leetcode/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/AmbarC27/Leetcode/tree/master/0967-minimum-falling-path-sum) |
