@@ -14,7 +14,7 @@ class Solution:
             if remaining_sum < 0 or i == n:
                 return False
             if remaining_sum == 0:
-                cache[remaining_sum][i] = True
+                # cache[remaining_sum][i] = True
                 return True
             if cache[remaining_sum][i] != None:
                 return cache[remaining_sum][i]
