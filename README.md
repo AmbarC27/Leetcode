@@ -8,6 +8,7 @@
 | [0018-4sum](https://github.com/AmbarC27/Leetcode/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmbarC27/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/AmbarC27/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/AmbarC27/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AmbarC27/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/AmbarC27/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/AmbarC27/Leetcode/tree/master/0075-sort-colors) |
@@ -398,6 +399,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AmbarC27/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/AmbarC27/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AmbarC27/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/AmbarC27/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/AmbarC27/Leetcode/tree/master/0072-edit-distance) |
@@ -505,6 +507,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/AmbarC27/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AmbarC27/Leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/AmbarC27/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AmbarC27/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
