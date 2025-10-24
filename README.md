@@ -197,6 +197,7 @@
 | [0076-minimum-window-substring](https://github.com/AmbarC27/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/AmbarC27/Leetcode/tree/master/0139-word-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmbarC27/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0432-all-oone-data-structure](https://github.com/AmbarC27/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0525-contiguous-array](https://github.com/AmbarC27/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AmbarC27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0778-reorganize-string](https://github.com/AmbarC27/Leetcode/tree/master/0778-reorganize-string) |
@@ -241,6 +242,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/AmbarC27/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/AmbarC27/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/AmbarC27/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0432-all-oone-data-structure](https://github.com/AmbarC27/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [1484-linked-list-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/AmbarC27/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AmbarC27/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -368,6 +370,7 @@
 | [0295-find-median-from-data-stream](https://github.com/AmbarC27/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmbarC27/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0432-all-oone-data-structure](https://github.com/AmbarC27/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0937-online-stock-span](https://github.com/AmbarC27/Leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/AmbarC27/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [2139-detect-squares](https://github.com/AmbarC27/Leetcode/tree/master/2139-detect-squares) |
@@ -583,4 +586,8 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/AmbarC27/Leetcode/tree/master/0210-course-schedule-ii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AmbarC27/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/AmbarC27/Leetcode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
