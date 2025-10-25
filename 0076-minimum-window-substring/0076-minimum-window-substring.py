@@ -31,5 +31,8 @@ class Solution:
                     have -= 1
                 l += 1
 
+        ## Note: don't use l and r as the final answer indices as they may be different
+        ## from the actual indices, as the window rolls on. For example, r would always be
+        ## len(s)
         starting_idx, ending_idx = ans
         return s[starting_idx : ending_idx + 1] if ansLen != float("infinity") else ""
