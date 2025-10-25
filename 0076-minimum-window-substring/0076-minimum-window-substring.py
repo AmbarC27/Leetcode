@@ -1,38 +1,35 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        ## Decrease t_dict occurrence when we encounter a character
-        ## in string s . When t_dict value goes to 0 remove it from
-        ## curr_set. When l pointer encounters a char in t, increment
-        ## t_dict value and add to curr_set
-        t_dict = Counter(t)
-        curr_set = set()
-        for char in t:
-            curr_set.add(char)
-        ans = "#" * 100001
-        l = 0
-        r = 0
-        while r < len(s):
-            if s[r] in t_dict:
-                t_dict[s[r]] -= 1
-                if t_dict[s[r]] == 0:
-                    curr_set.remove(s[r])
-            while not curr_set:
-                curr_str = s[l:r+1]
-                if len(curr_str) < len(ans):
-                    ans = curr_str
-
-                if s[l] in t_dict:
-                    t_dict[s[l]] += 1
-                    if t_dict[s[l]] == 1:
-                        curr_set.add(s[l])
-
-                ## Having this block both before or after the "s[l] in t_dict" 
-                ## block works
-                # curr_str = s[l:r+1]
-                # if len(curr_str) < len(ans):
-                #     ans = curr_str
-                l += 1
-            r += 1
-        if len(ans) == 100001:
+        if t == "":
             return ""
-        return ans
+
+        countT, window = {}, {}
+        for c in t:
+            countT[c] = 1 + countT.get(c, 0)
+
+        have, need = 0, len(countT)
+        ans, ansLen = [-1, -1], float("infinity")
+        l = 0
+        for r in range(len(s)):
+            c = s[r]
+            window[c] = 1 + window.get(c, 0)
+
+            ## note that if window[c] surpasses countT[c], that doesn't increase 
+            ## have
+            if c in countT and window[c] == countT[c]:
+                have += 1
+
+            while have == need:
+                if (r - l + 1) < ansLen:
+                    ans = [l, r]
+                    ansLen = r - l + 1
+
+                window[s[l]] -= 1
+                ## note it is not window[s[l]] != countT[s[l]] as window[s[l]] could
+                ## also be higher than countT[s[l]]
+                if s[l] in countT and window[s[l]] < countT[s[l]]:
+                    have -= 1
+                l += 1
+
+        starting_idx, ending_idx = ans
+        return s[starting_idx : ending_idx + 1] if ansLen != float("infinity") else ""
