@@ -6,8 +6,11 @@ class Solution:
         while l <= r:
             mid = (l+r)//2
             if mid**2 <= x:
+                ## Want to push rightwards as much as possible
                 ans = mid
                 l = mid + 1
             elif mid ** 2 > x:
                 r = mid - 1
-        return ans
+
+        ## Could have also returned r as answer
+        return r
