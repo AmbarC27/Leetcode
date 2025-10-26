@@ -32,6 +32,7 @@
 | [0525-contiguous-array](https://github.com/AmbarC27/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AmbarC27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/AmbarC27/Leetcode/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/AmbarC27/Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/AmbarC27/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/AmbarC27/Leetcode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/AmbarC27/Leetcode/tree/master/0724-find-pivot-index) |
@@ -206,6 +207,7 @@
 | [0432-all-oone-data-structure](https://github.com/AmbarC27/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0525-contiguous-array](https://github.com/AmbarC27/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AmbarC27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/AmbarC27/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/AmbarC27/Leetcode/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/AmbarC27/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -279,6 +281,7 @@
 | [0295-find-median-from-data-stream](https://github.com/AmbarC27/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/AmbarC27/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AmbarC27/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/AmbarC27/Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/AmbarC27/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/AmbarC27/Leetcode/tree/master/0778-reorganize-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/AmbarC27/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -386,6 +389,7 @@
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/AmbarC27/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/AmbarC27/Leetcode/tree/master/0778-reorganize-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/AmbarC27/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AmbarC27/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -488,6 +492,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AmbarC27/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/AmbarC27/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0621-task-scheduler](https://github.com/AmbarC27/Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/AmbarC27/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/AmbarC27/Leetcode/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/AmbarC27/Leetcode/tree/master/0778-reorganize-string) |
@@ -528,6 +533,7 @@
 | [0435-non-overlapping-intervals](https://github.com/AmbarC27/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AmbarC27/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/AmbarC27/Leetcode/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/AmbarC27/Leetcode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/AmbarC27/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AmbarC27/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/AmbarC27/Leetcode/tree/master/0778-reorganize-string) |
