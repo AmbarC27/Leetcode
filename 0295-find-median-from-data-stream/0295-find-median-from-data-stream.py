@@ -8,12 +8,21 @@ class MedianFinder:
         
 
     def addNum(self, num: int) -> None:
-        heapq.heappush(self.maxheap, -1*num)
-        if (self.maxheap and self.minheap and 
-            (-1 * self.maxheap[0]) > self.minheap[0]):
-            ## case of inbalance within the two heaps
-            val = -1 * heapq.heappop(self.maxheap)
-            heapq.heappush(self.minheap,val)
+        ## The commented method of adding works, but the uncommented code is 
+        ## cleaner and takes simpler logic
+
+        # heapq.heappush(self.maxheap, -1*num)
+        # if (self.maxheap and self.minheap and 
+        #     (-1 * self.maxheap[0]) > self.minheap[0]):
+        #     ## case of inbalance within the two heaps
+        #     val = -1 * heapq.heappop(self.maxheap)
+        #     heapq.heappush(self.minheap,val)
+
+        ## Case when num should enter the minheap holding the larger numbers
+        if self.minheap and num > self.minheap[0]:
+            heappush(self.minheap,num)
+        else:
+            heappush(self.maxheap,-1*num)
         
         if len(self.maxheap) > len(self.minheap) + 1:
             val = -1*heapq.heappop(self.maxheap)
