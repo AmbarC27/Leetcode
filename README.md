@@ -16,6 +16,7 @@
 | [0090-subsets-ii](https://github.com/AmbarC27/Leetcode/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/AmbarC27/Leetcode/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/AmbarC27/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0253-meeting-rooms-ii](https://github.com/AmbarC27/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0256-paint-house](https://github.com/AmbarC27/Leetcode/tree/master/0256-paint-house) |
 | [0283-move-zeroes](https://github.com/AmbarC27/Leetcode/tree/master/0283-move-zeroes) |
 | [0286-walls-and-gates](https://github.com/AmbarC27/Leetcode/tree/master/0286-walls-and-gates) |
@@ -189,6 +190,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/AmbarC27/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/AmbarC27/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/AmbarC27/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AmbarC27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -264,6 +266,7 @@
 | [0075-sort-colors](https://github.com/AmbarC27/Leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/AmbarC27/Leetcode/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/AmbarC27/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0253-meeting-rooms-ii](https://github.com/AmbarC27/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/AmbarC27/Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/AmbarC27/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/AmbarC27/Leetcode/tree/master/0443-string-compression) |
@@ -278,6 +281,7 @@
 | ------- |
 | [0018-4sum](https://github.com/AmbarC27/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/AmbarC27/Leetcode/tree/master/0075-sort-colors) |
+| [0253-meeting-rooms-ii](https://github.com/AmbarC27/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/AmbarC27/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/AmbarC27/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AmbarC27/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -491,6 +495,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AmbarC27/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0253-meeting-rooms-ii](https://github.com/AmbarC27/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/AmbarC27/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/AmbarC27/Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/AmbarC27/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -529,6 +534,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/AmbarC27/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AmbarC27/Leetcode/tree/master/0055-jump-game) |
+| [0253-meeting-rooms-ii](https://github.com/AmbarC27/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/AmbarC27/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AmbarC27/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AmbarC27/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
