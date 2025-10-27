@@ -15,7 +15,20 @@ class Solution:
         #     ans = max(ans,len(minheap))
         # return ans
 
-        ## Second approach
+        ## Sweep line algorithm
+        times = {}
+        for start,end in intervals:
+            times[start] = times.get(start,0) + 1
+            times[end] = times.get(end,0) - 1
+
+        rooms_required = 0
+        ans = 0
+        for time in sorted(times.keys()):
+            rooms_required += times[time]
+            ans = max(ans,rooms_required)
+        return ans
+
+        ## Third approach
         start = sorted(i[0] for i in intervals)
         end = sorted(i[1] for i in intervals)
         ans = 0
