@@ -16,21 +16,21 @@ class Solution:
             ans = max(ans,len(minheap))
         return ans
 
-        ## Second approach
-        start = sorted(i[0] for i in intervals)
-        end = sorted(i[1] for i in intervals)
-        ans = 0
-        curr_count = 0
-        s = 0
-        e = 0
-        print(start)
-        print(end)
-        while s < len(start):
-            if start[s] < end[e]:
-                s += 1
-                curr_count += 1
-            elif start[s] >= end[e]:
-                e += 1
-                curr_count -= 1
-            ans = max(ans,curr_count)
-        return ans
+        # ## Second approach
+        # start = sorted(i[0] for i in intervals)
+        # end = sorted(i[1] for i in intervals)
+        # ans = 0
+        # curr_count = 0
+        # s = 0
+        # e = 0
+        # print(start)
+        # print(end)
+        # while s < len(start):
+        #     if start[s] < end[e]:
+        #         s += 1
+        #         curr_count += 1
+        #     elif start[s] >= end[e]:
+        #         e += 1
+        #         curr_count -= 1
+        #     ans = max(ans,curr_count)
+        # return ans
