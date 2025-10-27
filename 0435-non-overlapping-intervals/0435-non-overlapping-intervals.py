@@ -34,5 +34,12 @@ class Solution:
                 last_interval = intervals[i]
         return count
 
+        ## The advantage of sorting by end time is that you already know which
+        ## end time (last interval vs current interval) is bigger/smaller, and 
+        ## so it's straightforward to assign last_interval_end before moving on
+        ## to the next iteration. Look at neetcode's solutions (on sorting by
+        ## start time vs end time) to see how it is easier to update when sorted 
+        ## by end time rather than start time
+
 
         
