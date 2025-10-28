@@ -31,7 +31,7 @@ class Solution:
             while curr_level:
                 x,y = curr_level.popleft()
                 # visited.add((x,y))
-                grid[y][x] = 2
+                # grid[y][x] = 2
                 # fresh_count -= 1
                 for dx,dy in [[1,0],[-1,0],[0,1],[0,-1]]:
                     nx = x + dx
