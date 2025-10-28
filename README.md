@@ -14,6 +14,7 @@
 | [0064-minimum-path-sum](https://github.com/AmbarC27/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/AmbarC27/Leetcode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/AmbarC27/Leetcode/tree/master/0090-subsets-ii) |
+| [0135-candy](https://github.com/AmbarC27/Leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/AmbarC27/Leetcode/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/AmbarC27/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0253-meeting-rooms-ii](https://github.com/AmbarC27/Leetcode/tree/master/0253-meeting-rooms-ii) |
@@ -539,6 +540,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/AmbarC27/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AmbarC27/Leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/AmbarC27/Leetcode/tree/master/0135-candy) |
 | [0253-meeting-rooms-ii](https://github.com/AmbarC27/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/AmbarC27/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AmbarC27/Leetcode/tree/master/0435-non-overlapping-intervals) |
