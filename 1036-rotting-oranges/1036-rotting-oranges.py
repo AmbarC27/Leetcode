@@ -36,7 +36,7 @@ class Solution:
                 for dx,dy in [[1,0],[-1,0],[0,1],[0,-1]]:
                     nx = x + dx
                     ny = y + dy
-                    if (0 <= nx < n) and (0 <= ny < m) and ((nx,ny) not in visited) and grid[ny][nx] == 1:
+                    if (0 <= nx < n) and (0 <= ny < m) and grid[ny][nx] == 1:
                         next_level.append([nx,ny])
                         # visited.add((nx,ny))
                         grid[ny][nx] = 2
