@@ -124,6 +124,7 @@
 | [0210-course-schedule-ii](https://github.com/AmbarC27/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/AmbarC27/Leetcode/tree/master/0261-graph-valid-tree) |
+| [0279-perfect-squares](https://github.com/AmbarC27/Leetcode/tree/master/0279-perfect-squares) |
 | [0286-walls-and-gates](https://github.com/AmbarC27/Leetcode/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AmbarC27/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -250,6 +251,7 @@
 | [0002-add-two-numbers](https://github.com/AmbarC27/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/AmbarC27/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AmbarC27/Leetcode/tree/master/0069-sqrtx) |
+| [0279-perfect-squares](https://github.com/AmbarC27/Leetcode/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmbarC27/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0976-minimum-area-rectangle](https://github.com/AmbarC27/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1236-n-th-tribonacci-number](https://github.com/AmbarC27/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -440,6 +442,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmbarC27/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/AmbarC27/Leetcode/tree/master/0139-word-break) |
 | [0256-paint-house](https://github.com/AmbarC27/Leetcode/tree/master/0256-paint-house) |
+| [0279-perfect-squares](https://github.com/AmbarC27/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/AmbarC27/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/AmbarC27/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/AmbarC27/Leetcode/tree/master/0403-frog-jump) |
