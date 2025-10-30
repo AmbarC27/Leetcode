@@ -445,6 +445,7 @@
 | [0064-minimum-path-sum](https://github.com/AmbarC27/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/AmbarC27/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/AmbarC27/Leetcode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/AmbarC27/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmbarC27/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/AmbarC27/Leetcode/tree/master/0139-word-break) |
 | [0256-paint-house](https://github.com/AmbarC27/Leetcode/tree/master/0256-paint-house) |
@@ -489,6 +490,7 @@
 | [0072-edit-distance](https://github.com/AmbarC27/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/AmbarC27/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/AmbarC27/Leetcode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/AmbarC27/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/AmbarC27/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/AmbarC27/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AmbarC27/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
