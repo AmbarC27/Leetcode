@@ -18,6 +18,7 @@ class Solution:
         ## Return min_k instead of l or r 
         while l <= r:
             mid = l + (r-l)//2
+            ## we want to push to the left as much as possible
             if speed_verified(mid):
                 min_k = mid
                 ## min_k = min(min_k,mid) 
