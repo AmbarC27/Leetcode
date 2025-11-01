@@ -25,7 +25,7 @@ class Solution:
         #                     next_level.append([nx,ny])
         #                     visited.add((nx,ny))
         #     t += 1
-        
+
         N = len(grid)
         visit = set()
         minH = [[grid[0][0], 0, 0]]  # (time/max-height, r, c)
@@ -36,6 +36,8 @@ class Solution:
             t, r, c = heapq.heappop(minH)
             if r == N - 1 and c == N - 1:
                 return t
+            # visit.add((r,c)) -> we can't add to visit here, otherwise
+            ## we get TLE (read below)
             for dr, dc in directions:
                 neiR, neiC = r + dr, c + dc
                 if (neiR < 0 or neiC < 0 or
@@ -45,3 +47,9 @@ class Solution:
                     continue
                 visit.add((neiR, neiC))
                 heapq.heappush(minH, [max(t, grid[neiR][neiC]), neiR, neiC])
+
+        ## In this question t is monotonically increasing (or non-decreasing
+        ## to be very specific) and so we will never come back to the same 
+        ## cell again and get a better answer. That is why we do the visited
+        ## check while looking for a cell's neighbor as we should never visit
+        ## a cell which has already been processed
