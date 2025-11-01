@@ -23,15 +23,17 @@ class Solution:
 
         lca = root
         while True:
-            found_in_left = False
-            found_in_right = False
             if lca.left:
-                found_in_left = search_nodes(lca.left,set(nodes))
+                all_nodes_found_in_left = search_nodes(lca.left,set(nodes))
+            else:
+                all_nodes_found_in_left = False
             if lca.right:
-                found_in_right = search_nodes(lca.right,set(nodes))
-            if found_in_left:
+                all_nodes_found_in_right = search_nodes(lca.right,set(nodes))
+            else:
+                all_nodes_found_in_right = False
+            if all_nodes_found_in_left:
                 lca = lca.left
-            elif found_in_right:
+            elif all_nodes_found_in_right:
                 lca = lca.right
             else:
                 ## All nodes are not found in any child so current node
