@@ -21,6 +21,8 @@ class AuthenticationManager:
         while self.minheap and self.minheap[0][0] <= currentTime:
             expiry_time, token = heapq.heappop(self.minheap)
             if expiry_time == self.token_to_ttl[token]:
+                ## if heap entries are stale i.e the latest expiry_time 
+                ## doesnt match what the heap is getting rid of
                 del self.token_to_ttl[token]
         return len(self.token_to_ttl)
         
