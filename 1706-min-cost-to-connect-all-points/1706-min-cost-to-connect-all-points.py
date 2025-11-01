@@ -24,7 +24,9 @@ class Solution:
             total += weight
             visited.add(tuple(curr_node))
             for next_node in adj_dict[tuple(curr_node)]:
-                if tuple(next_node):
+                ## the "not in visited" check isn't necessary here 
+                ## but its an optimization
+                if tuple(next_node) not in visited:
                     x1 = curr_node[0]
                     x2 = next_node[0]
                     y1 = curr_node[1]
