@@ -64,6 +64,7 @@
 | [1130-last-stone-weight-ii](https://github.com/AmbarC27/Leetcode/tree/master/1130-last-stone-weight-ii) |
 | [1184-car-pooling](https://github.com/AmbarC27/Leetcode/tree/master/1184-car-pooling) |
 | [1325-path-with-maximum-probability](https://github.com/AmbarC27/Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1483-rank-teams-by-votes](https://github.com/AmbarC27/Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AmbarC27/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AmbarC27/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AmbarC27/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -255,6 +256,7 @@
 | [1108-analyze-user-website-visit-pattern](https://github.com/AmbarC27/Leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1129-longest-string-chain](https://github.com/AmbarC27/Leetcode/tree/master/1129-longest-string-chain) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmbarC27/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1483-rank-teams-by-votes](https://github.com/AmbarC27/Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/AmbarC27/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AmbarC27/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmbarC27/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -334,6 +336,7 @@
 | [1108-analyze-user-website-visit-pattern](https://github.com/AmbarC27/Leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1129-longest-string-chain](https://github.com/AmbarC27/Leetcode/tree/master/1129-longest-string-chain) |
 | [1184-car-pooling](https://github.com/AmbarC27/Leetcode/tree/master/1184-car-pooling) |
+| [1483-rank-teams-by-votes](https://github.com/AmbarC27/Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AmbarC27/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmbarC27/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AmbarC27/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -436,6 +439,7 @@
 | ------- |
 | [0621-task-scheduler](https://github.com/AmbarC27/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/AmbarC27/Leetcode/tree/master/0778-reorganize-string) |
+| [1483-rank-teams-by-votes](https://github.com/AmbarC27/Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/AmbarC27/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AmbarC27/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2139-detect-squares](https://github.com/AmbarC27/Leetcode/tree/master/2139-detect-squares) |
@@ -529,6 +533,7 @@
 | [1023-time-based-key-value-store](https://github.com/AmbarC27/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1129-longest-string-chain](https://github.com/AmbarC27/Leetcode/tree/master/1129-longest-string-chain) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmbarC27/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1483-rank-teams-by-votes](https://github.com/AmbarC27/Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/AmbarC27/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AmbarC27/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AmbarC27/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
