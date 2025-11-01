@@ -75,6 +75,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmbarC27/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/AmbarC27/Leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/AmbarC27/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/AmbarC27/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2117-find-original-array-from-doubled-array](https://github.com/AmbarC27/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2139-detect-squares](https://github.com/AmbarC27/Leetcode/tree/master/2139-detect-squares) |
 | [2155-find-missing-observations](https://github.com/AmbarC27/Leetcode/tree/master/2155-find-missing-observations) |
@@ -125,6 +126,7 @@
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AmbarC27/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/AmbarC27/Leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2035-count-sub-islands](https://github.com/AmbarC27/Leetcode/tree/master/2035-count-sub-islands) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/AmbarC27/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AmbarC27/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2035-count-sub-islands](https://github.com/AmbarC27/Leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/AmbarC27/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/AmbarC27/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Union Find
 |  |
 | ------- |
@@ -165,6 +168,7 @@
 | [1100-connecting-cities-with-minimum-cost](https://github.com/AmbarC27/Leetcode/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AmbarC27/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2035-count-sub-islands](https://github.com/AmbarC27/Leetcode/tree/master/2035-count-sub-islands) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/AmbarC27/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Matrix
 |  |
 | ------- |
@@ -180,6 +184,7 @@
 | [1036-rotting-oranges](https://github.com/AmbarC27/Leetcode/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/AmbarC27/Leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/AmbarC27/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/AmbarC27/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2411-spiral-matrix-iv](https://github.com/AmbarC27/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Binary Search
 |  |
@@ -199,6 +204,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AmbarC27/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/AmbarC27/Leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmbarC27/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/AmbarC27/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2165-plates-between-candles](https://github.com/AmbarC27/Leetcode/tree/master/2165-plates-between-candles) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AmbarC27/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AmbarC27/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
