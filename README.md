@@ -262,6 +262,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/AmbarC27/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmbarC27/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/AmbarC27/Leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
+| [1905-design-authentication-manager](https://github.com/AmbarC27/Leetcode/tree/master/1905-design-authentication-manager) |
 | [2117-find-original-array-from-doubled-array](https://github.com/AmbarC27/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2139-detect-squares](https://github.com/AmbarC27/Leetcode/tree/master/2139-detect-squares) |
 | [2161-stock-price-fluctuation](https://github.com/AmbarC27/Leetcode/tree/master/2161-stock-price-fluctuation) |
@@ -297,6 +298,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/AmbarC27/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0432-all-oone-data-structure](https://github.com/AmbarC27/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [1484-linked-list-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [1905-design-authentication-manager](https://github.com/AmbarC27/Leetcode/tree/master/1905-design-authentication-manager) |
 | [2411-spiral-matrix-iv](https://github.com/AmbarC27/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AmbarC27/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AmbarC27/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -434,6 +436,7 @@
 | [0937-online-stock-span](https://github.com/AmbarC27/Leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/AmbarC27/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/AmbarC27/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1905-design-authentication-manager](https://github.com/AmbarC27/Leetcode/tree/master/1905-design-authentication-manager) |
 | [2139-detect-squares](https://github.com/AmbarC27/Leetcode/tree/master/2139-detect-squares) |
 | [2161-stock-price-fluctuation](https://github.com/AmbarC27/Leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AmbarC27/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -675,4 +678,5 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/AmbarC27/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [1905-design-authentication-manager](https://github.com/AmbarC27/Leetcode/tree/master/1905-design-authentication-manager) |
 <!---LeetCode Topics End-->
