@@ -5,6 +5,8 @@ class Solution:
         n = row ## (y) -> vertical
         m = col ## (x) -> horizontal
 
+        ## We do multi-source BFS i.e we start the BFS traversal from multiple starting 
+        ## points, and the ending point is same for all (anywhere in the last row)
         def can_reach(blocked):
             queue = collections.deque()
             visited = set()
@@ -25,7 +27,8 @@ class Solution:
             return False
 
         def possible(mid):
-            # build boolean blocked grid for the first mid+1 flooded cells
+            ## build boolean blocked grid for the first mid+1 flooded cells instead of a 
+            ## set, as a hashset has performance overhead which gives TLE
             blocked = [[False]*m for _ in range(n)]
             for r0, c0 in cells[:mid+1]:
                 blocked[r0][c0] = True
