@@ -30,8 +30,8 @@ class Solution:
             ## build boolean blocked grid for the first mid+1 flooded cells instead of a 
             ## set, as a hashset has performance overhead which gives TLE
             blocked = [[False]*m for _ in range(n)]
-            for r0, c0 in cells[:mid+1]:
-                blocked[r0][c0] = True
+            for r, c in cells[:mid+1]:
+                blocked[r][c] = True
             # single multi-source BFS from the open top row cells
             return can_reach(blocked)
 
