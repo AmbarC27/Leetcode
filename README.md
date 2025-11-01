@@ -47,6 +47,7 @@
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/AmbarC27/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AmbarC27/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/AmbarC27/Leetcode/tree/master/0792-binary-search) |
+| [0876-hand-of-straights](https://github.com/AmbarC27/Leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/AmbarC27/Leetcode/tree/master/0883-car-fleet) |
 | [0906-walking-robot-simulation](https://github.com/AmbarC27/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/AmbarC27/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -231,6 +232,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/AmbarC27/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AmbarC27/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/AmbarC27/Leetcode/tree/master/0778-reorganize-string) |
+| [0876-hand-of-straights](https://github.com/AmbarC27/Leetcode/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/AmbarC27/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/AmbarC27/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -312,6 +314,7 @@
 | [0778-reorganize-string](https://github.com/AmbarC27/Leetcode/tree/master/0778-reorganize-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/AmbarC27/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AmbarC27/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0876-hand-of-straights](https://github.com/AmbarC27/Leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/AmbarC27/Leetcode/tree/master/0883-car-fleet) |
 | [0976-minimum-area-rectangle](https://github.com/AmbarC27/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/AmbarC27/Leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
@@ -578,6 +581,7 @@
 | [0778-reorganize-string](https://github.com/AmbarC27/Leetcode/tree/master/0778-reorganize-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/AmbarC27/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AmbarC27/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0876-hand-of-straights](https://github.com/AmbarC27/Leetcode/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AmbarC27/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/AmbarC27/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AmbarC27/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
