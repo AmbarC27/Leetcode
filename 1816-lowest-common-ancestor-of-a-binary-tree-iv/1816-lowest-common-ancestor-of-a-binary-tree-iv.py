@@ -37,3 +37,15 @@ class Solution:
                 ## All nodes are not found in any child so current node
                 ## is lca
                 return lca
+
+        self.lca = root
+        def recurse(curr):
+            if not curr:
+                return
+            if search_nodes(curr,set(nodes)):
+                self.lca = curr
+            recurse(curr.left)
+            recurse(curr.right)
+
+        recurse(root)
+        return self.lca
