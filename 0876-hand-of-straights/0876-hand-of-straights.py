@@ -8,7 +8,7 @@ class Solution:
             minheap.append(num)
         heapq.heapify(minheap)
 
-        # while minheap:
+        # while minheap: -> either loop condition works
         for _ in range(len(hand)//groupSize):
             lowest_available_num = minheap[0]
             for num in range(lowest_available_num,lowest_available_num + groupSize):
