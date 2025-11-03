@@ -13,13 +13,11 @@ class Solution:
                 return gcd(b, a % b)
 
         curr = head
-        # nxt = head.next
         while curr and curr.next:
             nxt = curr.next
             gcd_val = gcd(curr.val,curr.next.val)
             gcd_node = ListNode(val=gcd_val)
             gcd_node.next = nxt
             curr.next = gcd_node
-            curr = curr.next.next
-            # nxt = nxt.next
+            curr = curr.next.next ## or curr = nxt
         return head
