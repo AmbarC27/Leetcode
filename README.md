@@ -18,6 +18,7 @@
 | [0090-subsets-ii](https://github.com/AmbarC27/Leetcode/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/AmbarC27/Leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/AmbarC27/Leetcode/tree/master/0139-word-break) |
+| [0209-minimum-size-subarray-sum](https://github.com/AmbarC27/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/AmbarC27/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0253-meeting-rooms-ii](https://github.com/AmbarC27/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0256-paint-house](https://github.com/AmbarC27/Leetcode/tree/master/0256-paint-house) |
@@ -197,6 +198,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmbarC27/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AmbarC27/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AmbarC27/Leetcode/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/AmbarC27/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/AmbarC27/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/AmbarC27/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/AmbarC27/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -227,6 +229,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AmbarC27/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0253-meeting-rooms-ii](https://github.com/AmbarC27/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/AmbarC27/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/AmbarC27/Leetcode/tree/master/0525-contiguous-array) |
@@ -628,6 +631,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmbarC27/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AmbarC27/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/AmbarC27/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/AmbarC27/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/AmbarC27/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmbarC27/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
