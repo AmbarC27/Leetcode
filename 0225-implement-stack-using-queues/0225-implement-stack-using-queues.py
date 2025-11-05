@@ -1,6 +1,8 @@
 class MyStack:
     ## Look at neetcode's solution to see solution with O(n) pop and 
     ## O(1) push
+
+    ## Neetcode solution 3 using queue of queues is interesting too
     def __init__(self):
         self.q = deque()
 
