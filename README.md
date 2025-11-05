@@ -275,6 +275,7 @@
 | [1023-time-based-key-value-store](https://github.com/AmbarC27/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/AmbarC27/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/AmbarC27/Leetcode/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1125-design-file-system](https://github.com/AmbarC27/Leetcode/tree/master/1125-design-file-system) |
 | [1129-longest-string-chain](https://github.com/AmbarC27/Leetcode/tree/master/1129-longest-string-chain) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmbarC27/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1483-rank-teams-by-votes](https://github.com/AmbarC27/Leetcode/tree/master/1483-rank-teams-by-votes) |
@@ -463,6 +464,7 @@
 | [0937-online-stock-span](https://github.com/AmbarC27/Leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/AmbarC27/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/AmbarC27/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1125-design-file-system](https://github.com/AmbarC27/Leetcode/tree/master/1125-design-file-system) |
 | [1905-design-authentication-manager](https://github.com/AmbarC27/Leetcode/tree/master/1905-design-authentication-manager) |
 | [2139-detect-squares](https://github.com/AmbarC27/Leetcode/tree/master/2139-detect-squares) |
 | [2161-stock-price-fluctuation](https://github.com/AmbarC27/Leetcode/tree/master/2161-stock-price-fluctuation) |
@@ -544,6 +546,7 @@
 | [0386-lexicographical-numbers](https://github.com/AmbarC27/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/AmbarC27/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/AmbarC27/Leetcode/tree/master/0472-concatenated-words) |
+| [1125-design-file-system](https://github.com/AmbarC27/Leetcode/tree/master/1125-design-file-system) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AmbarC27/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/AmbarC27/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AmbarC27/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -569,6 +572,7 @@
 | [0778-reorganize-string](https://github.com/AmbarC27/Leetcode/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AmbarC27/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/AmbarC27/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1125-design-file-system](https://github.com/AmbarC27/Leetcode/tree/master/1125-design-file-system) |
 | [1129-longest-string-chain](https://github.com/AmbarC27/Leetcode/tree/master/1129-longest-string-chain) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmbarC27/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1483-rank-teams-by-votes](https://github.com/AmbarC27/Leetcode/tree/master/1483-rank-teams-by-votes) |
