@@ -67,6 +67,7 @@
 | [1184-car-pooling](https://github.com/AmbarC27/Leetcode/tree/master/1184-car-pooling) |
 | [1325-path-with-maximum-probability](https://github.com/AmbarC27/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1483-rank-teams-by-votes](https://github.com/AmbarC27/Leetcode/tree/master/1483-rank-teams-by-votes) |
+| [1522-stone-game-iii](https://github.com/AmbarC27/Leetcode/tree/master/1522-stone-game-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AmbarC27/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AmbarC27/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AmbarC27/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -293,6 +294,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/AmbarC27/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0976-minimum-area-rectangle](https://github.com/AmbarC27/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1236-n-th-tribonacci-number](https://github.com/AmbarC27/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1522-stone-game-iii](https://github.com/AmbarC27/Leetcode/tree/master/1522-stone-game-iii) |
 | [2155-find-missing-observations](https://github.com/AmbarC27/Leetcode/tree/master/2155-find-missing-observations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AmbarC27/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AmbarC27/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -513,6 +515,7 @@
 | [1130-last-stone-weight-ii](https://github.com/AmbarC27/Leetcode/tree/master/1130-last-stone-weight-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/AmbarC27/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1522-stone-game-iii](https://github.com/AmbarC27/Leetcode/tree/master/1522-stone-game-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AmbarC27/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AmbarC27/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2755-extra-characters-in-a-string](https://github.com/AmbarC27/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -698,4 +701,8 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/AmbarC27/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Game Theory
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/AmbarC27/Leetcode/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
