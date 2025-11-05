@@ -71,6 +71,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AmbarC27/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AmbarC27/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AmbarC27/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1753-path-with-minimum-effort](https://github.com/AmbarC27/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AmbarC27/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AmbarC27/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1909-buildings-with-an-ocean-view](https://github.com/AmbarC27/Leetcode/tree/master/1909-buildings-with-an-ocean-view) |
@@ -131,6 +132,7 @@
 | [1492-time-needed-to-inform-all-employees](https://github.com/AmbarC27/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1558-course-schedule-iv](https://github.com/AmbarC27/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AmbarC27/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1753-path-with-minimum-effort](https://github.com/AmbarC27/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/AmbarC27/Leetcode/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2035-count-sub-islands](https://github.com/AmbarC27/Leetcode/tree/master/2035-count-sub-islands) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/AmbarC27/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -160,6 +162,7 @@
 | [1492-time-needed-to-inform-all-employees](https://github.com/AmbarC27/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1558-course-schedule-iv](https://github.com/AmbarC27/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AmbarC27/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1753-path-with-minimum-effort](https://github.com/AmbarC27/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/AmbarC27/Leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/AmbarC27/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/AmbarC27/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -174,6 +177,7 @@
 | [0794-swim-in-rising-water](https://github.com/AmbarC27/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/AmbarC27/Leetcode/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AmbarC27/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1753-path-with-minimum-effort](https://github.com/AmbarC27/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/AmbarC27/Leetcode/tree/master/2035-count-sub-islands) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/AmbarC27/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Matrix
@@ -189,6 +193,7 @@
 | [0794-swim-in-rising-water](https://github.com/AmbarC27/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/AmbarC27/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/AmbarC27/Leetcode/tree/master/1036-rotting-oranges) |
+| [1753-path-with-minimum-effort](https://github.com/AmbarC27/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/AmbarC27/Leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/AmbarC27/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/AmbarC27/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -209,6 +214,7 @@
 | [0907-koko-eating-bananas](https://github.com/AmbarC27/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/AmbarC27/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmbarC27/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1753-path-with-minimum-effort](https://github.com/AmbarC27/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AmbarC27/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/AmbarC27/Leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmbarC27/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -582,6 +588,7 @@
 | [1100-connecting-cities-with-minimum-cost](https://github.com/AmbarC27/Leetcode/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1184-car-pooling](https://github.com/AmbarC27/Leetcode/tree/master/1184-car-pooling) |
 | [1325-path-with-maximum-probability](https://github.com/AmbarC27/Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1753-path-with-minimum-effort](https://github.com/AmbarC27/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/AmbarC27/Leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2161-stock-price-fluctuation](https://github.com/AmbarC27/Leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AmbarC27/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
