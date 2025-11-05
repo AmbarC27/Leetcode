@@ -90,6 +90,7 @@
 | [2354-minimum-health-to-beat-game](https://github.com/AmbarC27/Leetcode/tree/master/2354-minimum-health-to-beat-game) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AmbarC27/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/AmbarC27/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2472-build-a-matrix-with-conditions](https://github.com/AmbarC27/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2479-meeting-rooms-iii](https://github.com/AmbarC27/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AmbarC27/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AmbarC27/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -198,6 +199,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/AmbarC27/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/AmbarC27/Leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2411-spiral-matrix-iv](https://github.com/AmbarC27/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2472-build-a-matrix-with-conditions](https://github.com/AmbarC27/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Binary Search
 |  |
 | ------- |
@@ -488,6 +490,7 @@
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AmbarC27/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AmbarC27/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AmbarC27/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2472-build-a-matrix-with-conditions](https://github.com/AmbarC27/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -699,6 +702,7 @@
 | [0210-course-schedule-ii](https://github.com/AmbarC27/Leetcode/tree/master/0210-course-schedule-ii) |
 | [1558-course-schedule-iv](https://github.com/AmbarC27/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AmbarC27/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2472-build-a-matrix-with-conditions](https://github.com/AmbarC27/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Doubly-Linked List
 |  |
 | ------- |
