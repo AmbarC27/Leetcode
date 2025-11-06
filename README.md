@@ -26,6 +26,7 @@
 | [0286-walls-and-gates](https://github.com/AmbarC27/Leetcode/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/AmbarC27/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0348-design-tic-tac-toe](https://github.com/AmbarC27/Leetcode/tree/master/0348-design-tic-tac-toe) |
+| [0362-design-hit-counter](https://github.com/AmbarC27/Leetcode/tree/master/0362-design-hit-counter) |
 | [0377-combination-sum-iv](https://github.com/AmbarC27/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmbarC27/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/AmbarC27/Leetcode/tree/master/0403-frog-jump) |
@@ -214,6 +215,7 @@
 | [0069-sqrtx](https://github.com/AmbarC27/Leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/AmbarC27/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/AmbarC27/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0362-design-hit-counter](https://github.com/AmbarC27/Leetcode/tree/master/0362-design-hit-counter) |
 | [0410-split-array-largest-sum](https://github.com/AmbarC27/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/AmbarC27/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/AmbarC27/Leetcode/tree/master/0792-binary-search) |
@@ -466,6 +468,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0348-design-tic-tac-toe](https://github.com/AmbarC27/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0359-logger-rate-limiter](https://github.com/AmbarC27/Leetcode/tree/master/0359-logger-rate-limiter) |
+| [0362-design-hit-counter](https://github.com/AmbarC27/Leetcode/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmbarC27/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/AmbarC27/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0937-online-stock-span](https://github.com/AmbarC27/Leetcode/tree/master/0937-online-stock-span) |
@@ -632,6 +635,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AmbarC27/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/AmbarC27/Leetcode/tree/master/0359-logger-rate-limiter) |
+| [0362-design-hit-counter](https://github.com/AmbarC27/Leetcode/tree/master/0362-design-hit-counter) |
 | [0937-online-stock-span](https://github.com/AmbarC27/Leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/AmbarC27/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [2161-stock-price-fluctuation](https://github.com/AmbarC27/Leetcode/tree/master/2161-stock-price-fluctuation) |
@@ -694,6 +698,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AmbarC27/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0362-design-hit-counter](https://github.com/AmbarC27/Leetcode/tree/master/0362-design-hit-counter) |
 | [0969-number-of-recent-calls](https://github.com/AmbarC27/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Ordered Set
 |  |
