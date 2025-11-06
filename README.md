@@ -47,6 +47,7 @@
 | [0724-find-pivot-index](https://github.com/AmbarC27/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AmbarC27/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/AmbarC27/Leetcode/tree/master/0739-daily-temperatures) |
+| [0772-construct-quad-tree](https://github.com/AmbarC27/Leetcode/tree/master/0772-construct-quad-tree) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/AmbarC27/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AmbarC27/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/AmbarC27/Leetcode/tree/master/0792-binary-search) |
@@ -197,6 +198,7 @@
 | [0463-island-perimeter](https://github.com/AmbarC27/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/AmbarC27/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AmbarC27/Leetcode/tree/master/0733-flood-fill) |
+| [0772-construct-quad-tree](https://github.com/AmbarC27/Leetcode/tree/master/0772-construct-quad-tree) |
 | [0794-swim-in-rising-water](https://github.com/AmbarC27/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/AmbarC27/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/AmbarC27/Leetcode/tree/master/1036-rotting-oranges) |
@@ -390,6 +392,7 @@
 | [0250-count-univalue-subtrees](https://github.com/AmbarC27/Leetcode/tree/master/0250-count-univalue-subtrees) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AmbarC27/Leetcode/tree/master/0437-path-sum-iii) |
+| [0772-construct-quad-tree](https://github.com/AmbarC27/Leetcode/tree/master/0772-construct-quad-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -714,6 +717,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AmbarC27/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/AmbarC27/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0772-construct-quad-tree](https://github.com/AmbarC27/Leetcode/tree/master/0772-construct-quad-tree) |
 ## Merge Sort
 |  |
 | ------- |
