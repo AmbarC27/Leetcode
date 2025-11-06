@@ -25,6 +25,7 @@
 | [0283-move-zeroes](https://github.com/AmbarC27/Leetcode/tree/master/0283-move-zeroes) |
 | [0286-walls-and-gates](https://github.com/AmbarC27/Leetcode/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/AmbarC27/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0348-design-tic-tac-toe](https://github.com/AmbarC27/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0377-combination-sum-iv](https://github.com/AmbarC27/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmbarC27/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/AmbarC27/Leetcode/tree/master/0403-frog-jump) |
@@ -191,6 +192,7 @@
 | [0064-minimum-path-sum](https://github.com/AmbarC27/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AmbarC27/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0286-walls-and-gates](https://github.com/AmbarC27/Leetcode/tree/master/0286-walls-and-gates) |
+| [0348-design-tic-tac-toe](https://github.com/AmbarC27/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0463-island-perimeter](https://github.com/AmbarC27/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/AmbarC27/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AmbarC27/Leetcode/tree/master/0733-flood-fill) |
@@ -230,6 +232,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0348-design-tic-tac-toe](https://github.com/AmbarC27/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0906-walking-robot-simulation](https://github.com/AmbarC27/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1184-car-pooling](https://github.com/AmbarC27/Leetcode/tree/master/1184-car-pooling) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AmbarC27/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -261,6 +264,7 @@
 | [0073-set-matrix-zeroes](https://github.com/AmbarC27/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/AmbarC27/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/AmbarC27/Leetcode/tree/master/0139-word-break) |
+| [0348-design-tic-tac-toe](https://github.com/AmbarC27/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmbarC27/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/AmbarC27/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0525-contiguous-array](https://github.com/AmbarC27/Leetcode/tree/master/0525-contiguous-array) |
@@ -459,6 +463,7 @@
 | [0225-implement-stack-using-queues](https://github.com/AmbarC27/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/AmbarC27/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AmbarC27/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0348-design-tic-tac-toe](https://github.com/AmbarC27/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmbarC27/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/AmbarC27/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0937-online-stock-span](https://github.com/AmbarC27/Leetcode/tree/master/0937-online-stock-span) |
