@@ -25,6 +25,7 @@
 | [0283-move-zeroes](https://github.com/AmbarC27/Leetcode/tree/master/0283-move-zeroes) |
 | [0286-walls-and-gates](https://github.com/AmbarC27/Leetcode/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/AmbarC27/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/AmbarC27/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0348-design-tic-tac-toe](https://github.com/AmbarC27/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0362-design-hit-counter](https://github.com/AmbarC27/Leetcode/tree/master/0362-design-hit-counter) |
 | [0377-combination-sum-iv](https://github.com/AmbarC27/Leetcode/tree/master/0377-combination-sum-iv) |
@@ -653,6 +654,7 @@
 | [0055-jump-game](https://github.com/AmbarC27/Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/AmbarC27/Leetcode/tree/master/0135-candy) |
 | [0253-meeting-rooms-ii](https://github.com/AmbarC27/Leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/AmbarC27/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/AmbarC27/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AmbarC27/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AmbarC27/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
