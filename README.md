@@ -95,6 +95,7 @@
 | [2354-minimum-health-to-beat-game](https://github.com/AmbarC27/Leetcode/tree/master/2354-minimum-health-to-beat-game) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AmbarC27/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/AmbarC27/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2429-design-a-food-rating-system](https://github.com/AmbarC27/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AmbarC27/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2479-meeting-rooms-iii](https://github.com/AmbarC27/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AmbarC27/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -299,6 +300,7 @@
 | [2161-stock-price-fluctuation](https://github.com/AmbarC27/Leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AmbarC27/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AmbarC27/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2429-design-a-food-rating-system](https://github.com/AmbarC27/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/AmbarC27/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AmbarC27/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/AmbarC27/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -483,6 +485,7 @@
 | [2139-detect-squares](https://github.com/AmbarC27/Leetcode/tree/master/2139-detect-squares) |
 | [2161-stock-price-fluctuation](https://github.com/AmbarC27/Leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AmbarC27/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2429-design-a-food-rating-system](https://github.com/AmbarC27/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Counting
 |  |
 | ------- |
@@ -596,6 +599,7 @@
 | [2165-plates-between-candles](https://github.com/AmbarC27/Leetcode/tree/master/2165-plates-between-candles) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AmbarC27/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AmbarC27/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2429-design-a-food-rating-system](https://github.com/AmbarC27/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2470-removing-stars-from-a-string](https://github.com/AmbarC27/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AmbarC27/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/AmbarC27/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -621,6 +625,7 @@
 | [1977-minimum-interval-to-include-each-query](https://github.com/AmbarC27/Leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2161-stock-price-fluctuation](https://github.com/AmbarC27/Leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AmbarC27/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2429-design-a-food-rating-system](https://github.com/AmbarC27/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/AmbarC27/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AmbarC27/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Shortest Path
@@ -710,6 +715,7 @@
 | ------- |
 | [2161-stock-price-fluctuation](https://github.com/AmbarC27/Leetcode/tree/master/2161-stock-price-fluctuation) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AmbarC27/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2429-design-a-food-rating-system](https://github.com/AmbarC27/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Line Sweep
 |  |
 | ------- |
