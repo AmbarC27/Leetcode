@@ -74,6 +74,7 @@
 | [1483-rank-teams-by-votes](https://github.com/AmbarC27/Leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1522-stone-game-iii](https://github.com/AmbarC27/Leetcode/tree/master/1522-stone-game-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AmbarC27/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AmbarC27/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AmbarC27/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AmbarC27/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/AmbarC27/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -638,6 +639,7 @@
 |  |
 | ------- |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/AmbarC27/Leetcode/tree/master/1100-connecting-cities-with-minimum-cost) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AmbarC27/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AmbarC27/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Data Stream
 |  |
@@ -755,4 +757,12 @@
 |  |
 | ------- |
 | [1522-stone-game-iii](https://github.com/AmbarC27/Leetcode/tree/master/1522-stone-game-iii) |
+## Union-Find
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AmbarC27/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Graph Theory
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AmbarC27/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
